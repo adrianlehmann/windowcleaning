@@ -553,13 +553,22 @@ function App() {
               <div className="flex flex-wrap gap-2.5">
                 {areas.map((area, index) => <span key={area} className={`rounded-full border px-4 py-2.5 text-sm font-semibold ${index === 4 ? 'border-[#147a91] bg-[#147a91] text-white' : 'border-[#c6dfe3] bg-[#f8fcfc] text-[#416b76]'}`} data-testid={`text-area-${index}`}>{area}</span>)}
               </div>
-              <div className="mt-10 grid gap-4 sm:grid-cols-2">
-                <div className="rounded-2xl border border-[#d5e4e7] bg-[#f8fcfc] p-5">
+              <div className="mt-10 flex flex-col gap-4 sm:flex-row sm:flex-wrap">
+                <div className="min-w-[18.5rem] flex-1 rounded-2xl border border-[#d5e4e7] bg-[#f8fcfc] p-5">
                   <Clock3 size={20} className="text-[#147a91]" />
                   <h3 className="mt-4 font-[var(--app-font-serif)] text-lg font-bold text-[#173b4f]">Hours</h3>
-                  <div className="mt-3 space-y-2 text-sm text-[#66818b]"><div className="flex justify-between gap-3"><span>Monday–Saturday</span><strong className="text-[#294b5c]">7:00 AM–5:00 PM</strong></div><div className="flex justify-between gap-3"><span>Sunday</span><strong className="text-[#294b5c]">Closed</strong></div></div>
+                  <div className="mt-3 space-y-2 text-sm text-[#66818b]">
+                    <div className="flex items-center justify-between gap-3">
+                      <span className="whitespace-nowrap">Monday–Saturday</span>
+                      <strong className="whitespace-nowrap text-[#294b5c]">7:00 AM–5:00 PM</strong>
+                    </div>
+                    <div className="flex items-center justify-between gap-3">
+                      <span>Sunday</span>
+                      <strong className="whitespace-nowrap text-[#294b5c]">Closed</strong>
+                    </div>
+                  </div>
                 </div>
-                <div className="rounded-2xl border border-[#d5e4e7] bg-[#f8fcfc] p-5">
+                <div className="min-w-[18.5rem] flex-1 rounded-2xl border border-[#d5e4e7] bg-[#f8fcfc] p-5">
                   <MapPin size={20} className="text-[#147a91]" />
                   <h3 className="mt-4 font-[var(--app-font-serif)] text-lg font-bold text-[#173b4f]">Based in</h3>
                   <p className="mt-3 text-sm leading-6 text-[#66818b]">Casa Grande, Arizona<br />Serving surrounding communities</p>
@@ -649,8 +658,8 @@ function App() {
                       </label>
                     </div>
                     <label><span className="field-label">Email <span className="font-normal text-[#8ca5ac]">(optional)</span></span><input className="field-control" name="email" type="email" placeholder="you@example.com" data-testid="input-email" /></label>
-                    <label><span className="field-label">Service Needed <span className="text-[#c15b4e]">*</span></span><select className="field-control" name="service" required defaultValue="" data-testid="select-service"><option value="" disabled>Select a service</option><option>Window Cleaning</option><option>Screen Cleaning</option><option>Window Track Cleaning</option><option>Water Spot Treatment</option><option>Solar Screen Cleaning</option><option>Screen Repair</option><option>Recurring Window Cleaning</option><option>Other</option></select></label>
-                    <label><span className="field-label">Message <span className="font-normal text-[#8ca5ac]">(optional)</span></span><textarea className="field-control min-h-28 resize-y" name="message" placeholder="Tell Mike a little about what you need cleaned." data-testid="textarea-message" /></label>
+                    <label className="block pt-3"><span className="field-label">Service Needed <span className="text-[#c15b4e]">*</span></span><select className="field-control" name="service" required defaultValue="" data-testid="select-service"><option value="" disabled>Select a service</option><option>Window Cleaning</option><option>Screen Cleaning</option><option>Window Track Cleaning</option><option>Water Spot Treatment</option><option>Solar Screen Cleaning</option><option>Screen Repair</option><option>Recurring Window Cleaning</option><option>Other</option></select></label>
+                    <label className="block pt-3"><span className="field-label">Message <span className="font-normal text-[#8ca5ac]">(optional)</span></span><textarea className="field-control min-h-28 resize-y" name="message" placeholder="Tell Mike a little about what you need cleaned." data-testid="textarea-message" /></label>
                     {submitError && (
                       <p className="text-center text-sm text-[#c15b4e]" data-testid="status-form-error">{submitError}</p>
                     )}
