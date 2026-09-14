@@ -1,0 +1,1197 @@
+Build a polished, modern, conversion-focused website for:
+
+MIKE THE WINDOW GUY
+
+Business type:
+Professional Window Cleaning Service
+
+Primary location:
+Casa Grande, Arizona
+
+Phone:
++1 520-483-3468
+
+Service area:
+- Ahwatukee, Phoenix
+- Arizona City, AZ
+- Coolidge, AZ
+- Gilbert, AZ
+- Casa Grande, AZ
+- Chandler, AZ
+- Florence, AZ
+- Maricopa, AZ
+- Queen Creek, AZ
+
+Hours:
+Monday: 7:00 AM – 5:00 PM
+Tuesday: 7:00 AM – 5:00 PM
+Wednesday: 7:00 AM – 5:00 PM
+Thursday: 7:00 AM – 5:00 PM
+Friday: 7:00 AM – 5:00 PM
+Saturday: 7:00 AM – 5:00 PM
+Sunday: Closed
+
+Business description:
+
+"Over 15 years experience, specialized in window n screen cleaning, water spot treatment, track cleaning"
+
+Primary positioning:
+
+"Crystal-Clear Windows. Meticulous Service."
+
+Supporting message:
+
+"Professional window and screen cleaning in Casa Grande and surrounding Arizona communities."
+
+The website should emphasize:
+- Professional window cleaning
+- Interior and exterior window cleaning
+- Screen cleaning
+- Window track cleaning
+- Water spot treatment
+- Solar screen cleaning
+- Screen-related services where appropriate
+- Dust and dirt removal
+- Thorough, detail-oriented service
+- Reliable scheduling
+- Recurring window cleaning
+
+IMPORTANT:
+Do not invent services that aren't supported by the supplied information.
+
+==================================================
+DESIGN DIRECTION
+==================================================
+
+Create a bright, premium, clean website that visually communicates:
+
+CLEAN
+BRIGHT
+CRYSTAL CLEAR
+PROFESSIONAL
+DETAIL-ORIENTED
+LOCAL
+
+The website should feel like a high-quality local service business rather than a generic cleaning franchise.
+
+Use a bright Arizona-inspired visual direction.
+
+Suggested palette:
+- White
+- Very light blue
+- Medium/deep blue
+- Warm desert/sand accent
+- Dark charcoal text
+
+Use lots of white space.
+
+The design should feel:
+- Fresh
+- Bright
+- Clean
+- Professional
+- Approachable
+
+Use subtle glass/window-inspired design elements.
+
+Avoid:
+- Excessive gradients
+- Overly corporate styling
+- Generic "maid service" aesthetics
+- Heavy dark backgrounds
+- Excessive animation
+
+Use high-quality imagery showing:
+- Crystal-clear residential windows
+- Window cleaning
+- Screens being cleaned
+- Arizona homes
+- Bright natural sunlight coming through clean windows
+- Clean window tracks
+- Professional window-cleaning work
+
+Where possible, imagery should communicate the visual difference between dirty and clean windows.
+
+Do not use images that imply commercial high-rise window cleaning unless that service is verified.
+
+==================================================
+HEADER
+==================================================
+
+Create a sticky header.
+
+Logo:
+
+MIKE THE WINDOW GUY
+
+Optional tagline:
+
+"Professional Window Cleaning"
+
+Navigation:
+
+Home
+Services
+About
+Reviews
+Service Area
+Contact
+
+Primary CTA:
+
+"Get a Quote"
+
+Secondary phone CTA:
+
+"Call Now"
+
+Phone:
+
+520-483-3468
+
+Make the phone number clickable:
+
+tel:+15204833468
+
+On mobile, make the phone button especially prominent.
+
+==================================================
+HOMEPAGE HERO
+==================================================
+
+Create a visually striking hero using a bright home with crystal-clear windows.
+
+Headline:
+
+"Crystal-Clear Windows. Meticulous Service."
+
+Supporting copy:
+
+"Professional window, screen, and track cleaning for homes throughout Casa Grande and surrounding Arizona communities."
+
+Primary CTA:
+
+"Get a Window Cleaning Quote"
+
+Secondary CTA:
+
+"Call 520-483-3468"
+
+Add a trust line:
+
+"15+ Years of Experience"
+
+Only use "15+ years" because this is explicitly provided by the business.
+
+Add additional trust points:
+
+"Window & Screen Cleaning"
+"Water Spot Treatment"
+"Track Cleaning"
+
+Do not claim "licensed," "insured," "certified," or similar credentials unless separately verified.
+
+==================================================
+IMMEDIATE TRUST STRIP
+==================================================
+
+Immediately below the hero, create a clean horizontal trust section.
+
+Use:
+
+15+ Years Experience
+Detailed Cleaning
+Crystal-Clear Results
+Local to Casa Grande
+
+IMPORTANT:
+"Local to Casa Grande" is supported by the supplied review describing Mike as local to Casa Grande.
+
+Do not make unsupported claims like:
+"Best in Arizona"
+"Arizona's #1"
+"Guaranteed lowest prices"
+
+==================================================
+SERVICES
+==================================================
+
+Create a prominent services section.
+
+Headline:
+
+"More Than Just Clean Glass"
+
+Supporting copy:
+
+"Mike The Window Guy focuses on the details that make a noticeable difference—from the glass itself to screens and tracks."
+
+Consolidate the supplied services into logical categories.
+
+Primary services:
+
+1. Window Cleaning
+2. Screen Cleaning
+3. Window Track Cleaning
+4. Water Spot Treatment
+5. Solar Screen Cleaning
+6. Screen Services
+
+==================================================
+WINDOW CLEANING
+==================================================
+
+Create a major service section:
+
+"Professional Window Cleaning"
+
+Copy:
+
+"Get your windows looking bright, clean, and clear again. Mike The Window Guy provides thorough window cleaning for residential customers in the Casa Grande area and surrounding communities."
+
+Reviews specifically mention:
+- Interior and exterior window cleaning
+- Thorough cleaning
+- Crystal-clear results
+- Cleaning heavily dust-covered windows
+- Cleaning windows affected by Arizona dust storms
+
+Use this as supporting context.
+
+Do not claim:
+- Specific cleaning products
+- Specific equipment
+- Streak-free guarantee
+- Exact cleaning frequency
+unless provided.
+
+CTA:
+
+"Get a Window Cleaning Quote"
+
+==================================================
+WINDOWS INSIDE & OUT
+==================================================
+
+Create a visually appealing section:
+
+"Clean Windows. Inside & Out."
+
+Use the supplied customer review describing:
+
+"tracks, screens, windows inside out"
+
+Explain that customers have specifically praised Mike for cleaning:
+- Interior glass
+- Exterior glass
+- Screens
+- Tracks
+
+Do not imply that every service package automatically includes all of these components unless confirmed.
+
+Phrase it as:
+
+"Depending on your service, cleaning can address the glass, screens, and tracks that contribute to an overall cleaner window."
+
+==================================================
+SCREEN CLEANING
+==================================================
+
+Create a dedicated section:
+
+"Screen Cleaning"
+
+Copy:
+
+"Dirty screens can make otherwise clean windows look dusty and dull. Mike The Window Guy specializes in window and screen cleaning to help restore a cleaner, brighter view."
+
+Reviews mention:
+- Screens free of dust
+- Screen cleaning
+- Solar screen cleaning
+- Screen-related services
+
+Do not invent screen replacement pricing or materials.
+
+==================================================
+TRACK CLEANING
+==================================================
+
+Create a dedicated section:
+
+"Don't Forget the Tracks"
+
+Copy:
+
+"Window tracks collect dust, dirt, and debris over time. Track cleaning helps take care of one of the easiest-to-overlook parts of a window."
+
+Mention that track cleaning is one of Mike's specialties.
+
+Use a visual close-up of a clean window track if available.
+
+CTA:
+
+"Ask About Track Cleaning"
+
+==================================================
+WATER SPOT TREATMENT
+==================================================
+
+Create a dedicated service section:
+
+"Water Spot Treatment"
+
+Copy:
+
+"Mineral deposits and water spots can build up on glass and affect its appearance. Mike The Window Guy offers water spot treatment as part of his specialized window services."
+
+Do not claim that every type of stain can be removed.
+
+Do not guarantee complete removal of severe or permanent glass damage.
+
+CTA:
+
+"Ask About Water Spot Treatment"
+
+==================================================
+SOLAR SCREEN CLEANING
+==================================================
+
+Create a section:
+
+"Solar Screen Cleaning"
+
+Use the supplied business description/review that specifically mentions solar screen cleaning and treatment.
+
+Copy:
+
+"Arizona dust can quickly build up on screens. Professional solar screen cleaning helps keep them looking cleaner and helps maintain a better-looking exterior."
+
+Do not make claims about:
+- Energy savings
+- UV protection
+- Screen lifespan
+- Temperature reduction
+
+unless separately verified.
+
+==================================================
+SCREEN SERVICES
+==================================================
+
+A review mentions "screen repairs" and solar screen services.
+
+Create a modest section:
+
+"Screen Services"
+
+Copy:
+
+"Mike also offers additional screen-related services, including screen repairs and solar screen cleaning."
+
+Do not expand this into screen installation/replacement unless verified.
+
+Do not invent:
+- Screen materials
+- Frame colors
+- Mesh types
+- Replacement guarantees
+- Pet screens
+
+==================================================
+WHY CHOOSE MIKE
+==================================================
+
+Create a strong trust section.
+
+Headline:
+
+"Why Customers Keep Calling Mike"
+
+Use themes directly supported by the reviews.
+
+Detail-Oriented
+"Customers repeatedly describe the work as thorough, meticulous, and detailed."
+
+Reliable
+"Reviews highlight punctuality, dependability, and professional service."
+
+Crystal-Clear Results
+"Customers consistently mention spotless, crystal-clear windows."
+
+Friendly & Professional
+"Reviews describe Mike as friendly, professional, and easy to work with."
+
+Affordable
+"Customers frequently describe the service as affordable and reasonably priced."
+
+Local
+"Mike is based in the Casa Grande area and serves surrounding communities."
+
+15+ Years Experience
+"Mike brings more than 15 years of experience to his window-cleaning work."
+
+Do not turn review-based characteristics into absolute guarantees.
+
+==================================================
+THE ARIZONA DUST PROBLEM
+==================================================
+
+Create a visually strong section specifically relevant to the local market.
+
+Headline:
+
+"Arizona Dust Doesn't Stand a Chance Against Clean Windows"
+
+Copy:
+
+"Between dust storms and everyday desert dust, Arizona windows and screens can quickly lose their clarity. Professional cleaning can make a noticeable difference in how bright and clean your home looks."
+
+Use supplied review evidence:
+
+One customer specifically praised Mike for making their windows look like new again after dust storms.
+
+Do not claim that cleaning prevents dust buildup.
+
+Do not claim a specific duration of cleanliness.
+
+CTA:
+
+"Refresh Your Windows"
+
+==================================================
+RECURRING CLEANING
+==================================================
+
+This is an important conversion opportunity.
+
+Create a section:
+
+"Keep Your Windows Looking Great"
+
+Copy:
+
+"Once your windows are clean, recurring service can make it easier to keep them that way."
+
+Use the supplied review where a customer scheduled monthly cleaning of their large windows.
+
+Also mention that another customer planned to have their windows professionally cleaned at least a couple of times a year.
+
+Do not claim that Mike requires or automatically provides monthly contracts.
+
+Phrase it as:
+
+"Ask about recurring cleaning options."
+
+CTA:
+
+"Ask About Recurring Service"
+
+==================================================
+BEFORE & AFTER SECTION
+==================================================
+
+Create a visually compelling before/after section.
+
+Headline:
+
+"See the Difference Clean Windows Make"
+
+Use imagery showing:
+- Dirty vs clean windows
+- Dusty screens vs clean screens
+- Dirty tracks vs clean tracks
+
+If real business before/after photos are not available, use appropriate generic imagery but DO NOT falsely label generic images as Mike's work.
+
+If using generic imagery, label it appropriately or avoid explicit claims that the pictured work was performed by Mike.
+
+==================================================
+CUSTOMER EXPERIENCE SECTION
+==================================================
+
+Create a section around the transformation customers describe.
+
+Headline:
+
+"More Light. Better Views. A Cleaner Home."
+
+Use the themes from the supplied reviews.
+
+Copy:
+
+"Customers describe the difference as more than just clean glass—they notice brighter rooms, clearer views, and a cleaner overall feeling throughout the home."
+
+This is a paraphrase of customer experiences.
+
+Do not present it as a guarantee.
+
+Do not make health or wellness claims.
+
+==================================================
+REVIEWS
+==================================================
+
+Create a large testimonials section.
+
+Use ONLY the reviews provided in this prompt.
+
+Do not fabricate reviews.
+
+Do not invent reviewer names.
+
+If names are unavailable, label:
+
+"Google Review"
+
+Select reviews covering different strengths.
+
+Recommended themes:
+
+1. Crystal-clear results
+2. Thorough inside/out cleaning
+3. Dust storm cleanup
+4. Professionalism
+5. Reliability
+6. Affordable pricing
+7. Recurring cleaning
+8. Screen cleaning
+
+Potential short excerpts:
+
+"WINDOWS CRYSTAL CLEAR!"
+
+"MIKE MET THEM ALL."
+
+"He does great work"
+
+"Mike did a phenomenal job cleaning my windows thoroughly"
+
+"The house feels lighter, cleaner, airier."
+
+"My windows look spotless and crystal clear."
+
+"He is very friendly, professional and very detailed with his work."
+
+"Michael did an Amazing job on my new windows!"
+
+"Great communication!"
+
+"If you're looking for a 'window guy' call Michael!"
+
+Keep excerpts reasonably short.
+
+Do not fabricate reviewer names.
+
+Do not alter the meaning of reviews.
+
+==================================================
+RAIN & DUST GUARANTEE
+==================================================
+
+One supplied customer review explicitly states:
+
+"He also includes a 1 week rain and dust guarantee! He stands behind his work."
+
+Because this is a customer statement, do NOT automatically turn it into a prominent company-wide guarantee without verification.
+
+If you include it, phrase it carefully:
+
+"One customer specifically praised Mike for standing behind his work with a one-week rain and dust guarantee."
+
+Do NOT put:
+"1 WEEK RAIN & DUST GUARANTEE"
+as a general company promise unless this has been verified directly.
+
+This is important for accuracy.
+
+==================================================
+SERVICE AREA
+==================================================
+
+Create a dedicated service-area section.
+
+Headline:
+
+"Serving Casa Grande & Surrounding Communities"
+
+List:
+
+Casa Grande, AZ
+Arizona City, AZ
+Coolidge, AZ
+Gilbert, AZ
+Chandler, AZ
+Florence, AZ
+Maricopa, AZ
+Queen Creek, AZ
+Ahwatukee / Phoenix, AZ
+
+Do not imply every service is available in every area if that has not been separately confirmed.
+
+Use the list as the business's stated service area.
+
+Create location-focused copy naturally.
+
+Examples:
+
+"Window Cleaning in Casa Grande"
+"Window Cleaning in Arizona City"
+"Window Cleaning in Coolidge"
+"Window Cleaning in Chandler"
+"Window Cleaning in Florence"
+"Window Cleaning in Maricopa"
+"Window Cleaning in Queen Creek"
+"Window Cleaning in Ahwatukee"
+
+Do NOT create dozens of thin, duplicate SEO pages.
+
+A strong service-area section on the main website is preferable unless there is enough unique content to justify individual pages.
+
+==================================================
+LOCAL SEO
+==================================================
+
+Primary SEO location:
+
+Casa Grande, Arizona
+
+Secondary areas:
+- Arizona City
+- Coolidge
+- Chandler
+- Gilbert
+- Florence
+- Maricopa
+- Queen Creek
+- Ahwatukee / Phoenix
+
+Target natural search phrases:
+
+- window cleaning Casa Grande AZ
+- window cleaner Casa Grande
+- window washing Casa Grande
+- professional window cleaning Casa Grande
+- residential window cleaning Casa Grande
+- screen cleaning Casa Grande
+- window track cleaning Casa Grande
+- water spot removal Casa Grande
+- solar screen cleaning Casa Grande
+- window cleaning Arizona City
+- window cleaning Coolidge
+- window cleaning Chandler
+- window cleaning Maricopa
+- window cleaning Queen Creek
+
+Do NOT keyword stuff.
+
+Use keywords naturally throughout:
+- Headings
+- Body copy
+- Metadata
+- Image alt text
+- Service descriptions
+
+==================================================
+SEO METADATA
+==================================================
+
+Homepage title:
+
+"Mike The Window Guy | Window Cleaning in Casa Grande, AZ"
+
+Meta description:
+
+"Professional window, screen, track cleaning and water spot treatment in Casa Grande, AZ and surrounding communities. 15+ years of experience."
+
+Create unique metadata for any additional pages.
+
+==================================================
+LOCAL BUSINESS STRUCTURED DATA
+==================================================
+
+Implement appropriate Schema.org structured data.
+
+Use an appropriate local service/business type.
+
+Include:
+- Business name
+- Phone
+- Address if appropriate
+- Business hours
+- Service areas
+- Website
+
+Address:
+
+Do NOT invent a street address.
+
+No physical street address has been supplied.
+
+Do not create a fake address just to improve local SEO.
+
+Do not add:
+- Fake aggregate ratings
+- Fake review counts
+- Fake pricing
+- Fake email
+- Fake social media profiles
+- Fake payment methods
+
+==================================================
+CONTACT / QUOTE SECTION
+==================================================
+
+Create a high-converting quote/contact section.
+
+Headline:
+
+"Ready for Crystal-Clear Windows?"
+
+Supporting text:
+
+"Tell Mike what you need cleaned and get in touch about your window-cleaning service."
+
+Contact form:
+
+Name *
+Phone *
+Email
+Service Needed *
+Message
+
+Service dropdown:
+
+- Window Cleaning
+- Screen Cleaning
+- Window Track Cleaning
+- Water Spot Treatment
+- Solar Screen Cleaning
+- Screen Repair
+- Recurring Window Cleaning
+- Other
+
+Required:
+Name
+Phone
+Service Needed
+
+Optional:
+Email
+Message
+
+Success message:
+
+"Thank you! Your request has been received. Mike The Window Guy will be in touch."
+
+Also display:
+
+"Prefer to talk? Call 520-483-3468"
+
+Make it clickable:
+
+tel:+15204833468
+
+Do not add an online booking system unless one is actually available.
+
+Do not invent an email address.
+
+==================================================
+PHONE CTA
+==================================================
+
+The phone number should appear throughout the website.
+
+Use:
+
+520-483-3468
+
+Clickable:
+
+tel:+15204833468
+
+CTA variations:
+
+"Call Mike"
+"Call for a Quote"
+"Get Your Windows Cleaned"
+"Call 520-483-3468"
+
+Avoid weak CTAs such as "Learn More" when a quote/call action is more appropriate.
+
+==================================================
+HOURS
+==================================================
+
+Display:
+
+Monday — 7:00 AM–5:00 PM
+Tuesday — 7:00 AM–5:00 PM
+Wednesday — 7:00 AM–5:00 PM
+Thursday — 7:00 AM–5:00 PM
+Friday — 7:00 AM–5:00 PM
+Saturday — 7:00 AM–5:00 PM
+Sunday — Closed
+
+==================================================
+ABOUT
+==================================================
+
+Create an About section.
+
+Headline:
+
+"Meet Mike The Window Guy"
+
+Copy direction:
+
+"With over 15 years of experience, Mike The Window Guy specializes in professional window and screen cleaning, water spot treatment, and track cleaning for customers throughout Casa Grande and surrounding communities."
+
+Emphasize:
+- Experience
+- Attention to detail
+- Professional service
+- Local service
+- Clean results
+
+Do not invent:
+- Full legal name
+- Family information
+- Certifications
+- Licenses
+- Insurance
+- Awards
+- Business founding date
+- Number of employees
+
+The business is called "Mike The Window Guy." Do not assume that "Mike" is the person's legal name.
+
+==================================================
+FAQ
+==================================================
+
+Create a useful FAQ.
+
+Question:
+
+"What services does Mike The Window Guy provide?"
+
+Answer:
+
+"Mike specializes in window and screen cleaning, water spot treatment, and window track cleaning. Additional screen-related services and solar screen cleaning are also available."
+
+Question:
+
+"Do you clean window screens?"
+
+Answer:
+
+"Yes. Screen cleaning is one of Mike's specialties, and customers specifically mention having their screens cleaned and left free of dust."
+
+Question:
+
+"Do you clean window tracks?"
+
+Answer:
+
+"Yes. Track cleaning is specifically listed as one of Mike's specialties."
+
+Question:
+
+"Do you offer water spot treatment?"
+
+Answer:
+
+"Yes. Water spot treatment is one of the specialized services offered."
+
+Question:
+
+"Do you offer recurring window cleaning?"
+
+Answer:
+
+"Customers have used Mike for recurring window cleaning, including monthly service for large windows. Contact Mike to discuss your preferred cleaning schedule."
+
+Question:
+
+"Do you clean solar screens?"
+
+Answer:
+
+"Yes. Solar screen cleaning is specifically mentioned among Mike's services."
+
+Question:
+
+"What areas do you serve?"
+
+Answer:
+
+"Mike The Window Guy serves Casa Grande and surrounding communities including Arizona City, Coolidge, Gilbert, Chandler, Florence, Maricopa, Queen Creek, and Ahwatukee/Phoenix."
+
+Question:
+
+"How do I get a quote?"
+
+Answer:
+
+"Call 520-483-3468 or submit the contact form to discuss your window-cleaning needs."
+
+==================================================
+FOOTER
+==================================================
+
+Create a clean footer.
+
+MIKE THE WINDOW GUY
+
+Professional Window Cleaning
+
+"Crystal-Clear Windows. Meticulous Service."
+
+Phone:
+520-483-3468
+
+Service Area:
+Casa Grande • Arizona City • Coolidge • Chandler • Gilbert • Florence • Maricopa • Queen Creek • Ahwatukee
+
+Hours:
+Mon–Sat: 7 AM–5 PM
+Sunday: Closed
+
+Navigation:
+Home
+Services
+About
+Reviews
+Service Area
+Contact
+
+Privacy Policy
+Terms of Service
+
+© 2026 Mike The Window Guy. All rights reserved.
+
+==================================================
+MOBILE EXPERIENCE
+==================================================
+
+Mobile conversion is extremely important.
+
+Implement:
+
+- Sticky mobile header
+- Prominent Call button
+- Sticky bottom call CTA
+- Clickable phone number
+- Large service cards
+- Simple quote form
+- Large tap targets
+- Fast loading
+
+Sticky bottom mobile CTA:
+
+"CALL MIKE — 520-483-3468"
+
+Use:
+
+tel:+15204833468
+
+The phone number should always be easy to access.
+
+==================================================
+ACCESSIBILITY
+==================================================
+
+Implement:
+
+- Semantic HTML
+- Correct heading hierarchy
+- Accessible labels
+- Keyboard navigation
+- Visible focus states
+- Strong color contrast
+- Descriptive alt text
+- Accessible buttons
+- Descriptive links
+
+Do not rely solely on color to communicate information.
+
+==================================================
+PERFORMANCE
+==================================================
+
+Optimize heavily for mobile.
+
+Requirements:
+
+- Optimized images
+- WebP/AVIF where appropriate
+- Lazy-load below-the-fold images
+- Minimize JavaScript
+- Avoid unnecessary libraries
+- Optimize fonts
+- Prevent layout shift
+- Fast initial page load
+- Avoid excessive animation
+
+==================================================
+ACCURACY / CONTENT RULES
+==================================================
+
+Do NOT fabricate:
+
+- Physical address
+- Email address
+- Prices
+- Discounts
+- Financing
+- Warranties
+- Certifications
+- Licenses
+- Insurance
+- Awards
+- Exact business founding date
+- Employee count
+- Specific equipment
+- Cleaning products
+- Cleaning methods
+- Commercial/high-rise services
+- Pressure washing services
+- Gutter cleaning
+- House washing
+- Guaranteed results
+
+Do not claim:
+
+"Arizona's best window cleaner"
+"Best prices"
+"Cheapest"
+"Number one"
+"Guaranteed spotless"
+"Guaranteed streak-free"
+
+unless specifically substantiated.
+
+Use supported positioning:
+
+- 15+ years experience
+- Detailed
+- Professional
+- Reliable
+- Affordable
+- Local
+- Crystal-clear results
+
+These themes are supported by the supplied business information and customer reviews.
+
+==================================================
+REVIEW ACCURACY
+==================================================
+
+Do not transform individual customer experiences into universal guarantees.
+
+GOOD:
+
+"Customers frequently describe Mike's work as detailed and professional."
+
+NOT:
+
+"Mike guarantees perfect results every time."
+
+GOOD:
+
+"Reviews highlight crystal-clear windows and thorough cleaning."
+
+NOT:
+
+"Every window will be perfectly crystal clear."
+
+GOOD:
+
+"One customer reported that Mike's service included a one-week rain and dust guarantee."
+
+NOT:
+
+"All services include a one-week rain and dust guarantee."
+
+unless the guarantee has been independently confirmed.
+
+==================================================
+OVERALL CONVERSION STRATEGY
+==================================================
+
+The website should quickly answer:
+
+1. Who is Mike The Window Guy?
+2. What does he clean?
+3. Does he clean screens and tracks?
+4. Does he handle Arizona dust and water spots?
+5. Where does he work?
+6. Why should I trust him?
+7. How do I get a quote?
+
+The primary conversion action is:
+
+GET A WINDOW CLEANING QUOTE
+
+Secondary action:
+
+CALL 520-483-3468
+
+The website should repeatedly reinforce:
+
+CRYSTAL-CLEAR RESULTS
+ATTENTION TO DETAIL
+15+ YEARS EXPERIENCE
+LOCAL SERVICE
+PROFESSIONAL
+RELIABLE
+
+Use customer reviews as social proof.
+
+The website should make the customer visualize the benefit:
+
+Dirty windows → clean windows → brighter home → clearer view.
+
+==================================================
+FINAL REQUIREMENT
+==================================================
+
+Build the complete production-quality website in the existing Replit project.
+
+Use reusable components for:
+
+- Header
+- Footer
+- Hero
+- CTA sections
+- Service cards
+- Testimonials
+- FAQ
+- Contact form
+- Service-area section
+- Business information
+- Mobile call CTA
+
+Ensure:
+
+- No lorem ipsum
+- No placeholder business information
+- No fake claims
+- No fake testimonials
+- No fake contact information
+- No broken links
+- No console errors
+- Responsive desktop/tablet/mobile
+- Working click-to-call buttons
+- Working contact form
+- Proper SEO metadata
+- Proper accessibility
+- Excellent mobile performance
+
+Before finishing, test the website on:
+- Desktop
+- Tablet
+- Mobile
+
+The final result should feel like a premium but approachable local window-cleaning business, with an especially strong focus on visual cleanliness, attention to detail, local trust, and generating quote requests and phone calls.

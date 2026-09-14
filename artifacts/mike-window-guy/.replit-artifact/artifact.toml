@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Mike The Window Guy"
+description = "A bright, conversion-focused website for Mike The Window Guy, a local professional window cleaning service serving Casa Grande and surrounding Arizona communities."
+version = "1.0.0"
+id = "artifacts/mike-window-guy"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18705
+
+[services.development]
+run = "pnpm --filter @workspace/mike-window-guy run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/mike-window-guy", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/mike-window-guy/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18705"
+BASE_PATH = "/"
